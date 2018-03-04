@@ -1,0 +1,2 @@
+# IncrementalCylindricalAlgebraicDecomposition
+Code to accompany the publication
