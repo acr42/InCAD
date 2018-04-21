@@ -5,7 +5,7 @@ Code to accompany the publication - https://www.kaggle.com/c/jigsaw-toxic-commen
 ## CONTRIBUTERS:
 
 - Alexander Cowen-Rivers ([GitHub](https://github.com/acr42)) 
-
+- Dr. Matthew England ([Personal](http://computing.coventry.ac.uk/~mengland/))
 -------
 
 ## Dependencies
