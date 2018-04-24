@@ -1,6 +1,6 @@
 # Incremental Cylindrical Algebraic Decomposition
 
-Code to accompany the publication - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+Code to accompany the arxiv report - https://arxiv.org/abs/1804.08564
 
 ## CONTRIBUTERS:
 
